@@ -7,7 +7,7 @@ a screenshot of the web interface:
 <https://github.com/yesil/fileserver/raw/master/screenshots/fileserver-screenshot.png>
 
 
-About architecture
+About the architecture
 ------------------
 Base handler logic is copied from netty examples.
 
