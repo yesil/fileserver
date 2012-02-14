@@ -11,7 +11,7 @@ About the architecture
 ------------------
 Base handler logic is copied from netty examples.
 
- - HTTP Keep-Alive support coudn't be tested enought.
+ - Support for HTTP Keep-Alive has not be tested enought.
  
  - Shutdown logic is to be improved.
 
