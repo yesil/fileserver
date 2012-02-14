@@ -1,8 +1,8 @@
 fileserver
 ==========
-A very simple Netty based fileserver
+A very simple Netty based fileserver.
 
-a screenshot of the web interface 
+a screenshot of the web interface:
 
 <https://github.com/yesil/fileserver/raw/master/screenshots/fileserver-screenshot.png>
 
@@ -10,7 +10,9 @@ a screenshot of the web interface
 About architecture
 ------------------
 Base handler logic is copied from netty examples.
+
  - HTTP Keep-Alive support coudn't be tested enought.
- - Shutdown logic is to be improved
+ 
+ - Shutdown logic is to be improved.
 
 
